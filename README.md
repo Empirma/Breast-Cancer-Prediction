@@ -51,7 +51,7 @@ Each feature has three measurements:  mean, standard error (se), and worst (larg
 ```
 breast-cancer-prediction/
 │
-├── breast_cancer_prediction. ipynb    # Main Jupyter notebook
+├── breast_cancer_prediction.ipynb    # Main Jupyter notebook
 └── README.md                          # Project documentation
 ```
 
